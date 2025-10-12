@@ -47,7 +47,7 @@ var homeScreen: [ZeroTweak] = [
     ZeroTweak(icon: "folder", name: "respring loop your device", minSupportedVersion: 16.0, maxSupportedVersion: 18.9, paths: ["/System/Library/PrivateFrameworks/CoreMaterial.framework/Info.plist"]),
     ZeroTweak(icon: "square.text.square", name: "this probably does something", minSupportedVersion: 16.0, maxSupportedVersion: 18.9, paths: ["/System/Library/PrivateFrameworks/CoreMaterial.framework/luminanceColorMap.png","/System/Library/PrivateFrameworks/CoreMaterial.framework/modules.materialrecipe"]),
     ZeroTweak(icon: "square.dashed", name: "get rid of some platters", minSupportedVersion: 16.0, maxSupportedVersion: 18.9, paths: ["/System/Library/PrivateFrameworks/CoreMaterial.framework/platters.materialrecipe","/System/Library/PrivateFrameworks/CoreMaterial.framework/plattersDark.materialrecipe","/System/Library/PrivateFrameworks/CoreMaterial.framework/tintablePlatters.materialrecipe"]),
-    ZeroTweak(icon: "rectangle.and.text.magnifyingglass", name: "iphone rapeinator 3000", minSupportedVersion: 16.0, maxSupportedVersion: 18.9, paths: ["/System/Library/PrivateFrameworks/AppPredictionFoundation.framework/XPCServices/AppPredictionIntentsHelperService.xpc/AppPredictionIntentsHelperService"]),
+    ZeroTweak(icon: "rectangle.and.text.magnifyingglass", name: "kernel panic button", minSupportedVersion: 16.0, maxSupportedVersion: 18.9, paths: ["/System/Library/PrivateFrameworks/AppPredictionFoundation.framework/XPCServices/AppPredictionIntentsHelperService.xpc/AppPredictionIntentsHelperService"]),
 ]
 
 var lockScreen: [ZeroTweak] = [
