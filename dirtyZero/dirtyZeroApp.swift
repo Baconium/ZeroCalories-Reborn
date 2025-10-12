@@ -29,6 +29,8 @@ struct dirtyZeroApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .tint(.purple)
+                .accentColor(.purple)
                 .onAppear(perform: {
                     if weOnADebugBuild { print("We're on a Debug build!") }
                 })

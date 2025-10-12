@@ -1,8 +1,6 @@
 # dirtyZero
 **A simple customization toolbox that utilizes [CVE-2025-24203](https://project-zero.issues.chromium.org/issues/391518636).**
 
-[Download](https://github.com/jailbreakdotparty/dirtyZero/releases) • [Join our Discord!](https://discord.gg/XPj66zZ4gT)
-
 # Disclaimer
 All file modifications are done in memory. If something goes wrong or you want to revert the tweaks, just force reboot your phone. Note that this toolbox, or any subsequent toolbox that uses this exploit, **cannot** write to files. It can only *temporaily* disable them.
 
@@ -16,36 +14,21 @@ All file modifications are done in memory. If something goes wrong or you want t
 | iOS 18.4+ | Not Supported |
 
 # Available Tweaks
-  - Home Screen
-    - Disable Dock Background
-    - Disable Folder Backgrounds
-    - Disable Alert & Touch Backgrounds
-    - Disable Spotlight Backgroud
-    - Disable Widget Config BG
-    - Disable App Library BG (iOS 18 only)
-  - Lock Screen
-    - Disable Passcode Background
-    - Disable Lock Icon
-    - Disable Quick Action Icons (iOS 16 & 17 only)
-    - Disable Large Battery Icon (iOS 18 only)
-  - Global Customization
-    - Disable Notification Widget BGs
-    - Disable Home Bar
-    - Enable Helvetica Font
-    - Disable Slider Icons
-  - Control Center
-    - Disable CC Background
-    - Disable CC Module Background (iOS 18 only)
-    - Disable WiFi & Bluetooth Icons (iOS 16 & 17 only)
-    - Disable DND Icon
-    - Disable Screen Mirroring Module (iOS 16 & 17 only)
-    - Disable Orientation Lock Module (iOS 16 & 17 only)
-    - Disable Focus Module (iOS 16 & 17 only)
-  - Sound Effects
-    - Disable AirDrop Ping
-    - Disable Charge Sound
-    - Disable Low Battery Sound
-    - Disable Payment Sounds
+  - respring loop your device
+  - induce a kernel panic
+  - screw with the passcode screen
+  - disable internet
+  - remove all ringtones
+  - disable home bar
+  - helvetica font on ios 16
+  - remove emojis
+  - disable fonts
+  - disable ability to unlock your phone
+  - remove all app signatures
+  - bootloop device
+  - "screentime disabler"
+  - porn enabler
+  - keyboard disabler
 
 # How do I respring after applying the tweaks?
 ## Option 1: Use RespringApp
@@ -64,6 +47,6 @@ All file modifications are done in memory. If something goes wrong or you want t
 
 
 # Credits
-- [Skadz](https://github.com/skadz108) for making this app.
-- [lunginspector](https://github.com/lunginspector) for the UI and numerous tweaks.
+- [Skadz](https://github.com/skadz108) for making the original dirtyZero app.
+- [lunginspector](https://github.com/lunginspector) for making the dirtyZero UI.
 - Ian Beer of Google Project Zero for discovering and publishing the exploit.

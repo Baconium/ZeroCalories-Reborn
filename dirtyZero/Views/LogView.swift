@@ -9,7 +9,7 @@ struct LogView: View {
                 ScrollView(showsIndicators: false) {
                     Text(log)
                         .padding(.top)
-                        .font(.system(size: 10, weight: .regular, design: .monospaced))
+                        .font(.system(size: 20, weight: .regular, design: .monospaced))
                         .multilineTextAlignment(.leading)
                     Spacer()
                         .id(0)
